@@ -8,7 +8,7 @@ int main() {
     printf("Enter the number of minutes: ");
     scanf("%d", &minutes);
 
-    // Convert minutes to seconds
+    // Convert minutes to seconds0000000000
     int seconds = minutes * 60;
 
     printf("Timer started for %d minutes.\n", minutes);
