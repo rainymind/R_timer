@@ -1,3 +1,4 @@
+//00000
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -8,7 +9,7 @@ int main() {
     printf("Enter the number of minutes: ");
     scanf("%d", &minutes);
 
-    // Convert minutes to seconds0000000000
+    // Convert minutes to seconds
     int seconds = minutes * 60;
 
     printf("Timer started for %d minutes.\n", minutes);
